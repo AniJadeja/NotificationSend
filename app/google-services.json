@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "303100842919",
+    "project_id": "notification--send",
+    "storage_bucket": "notification--send.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303100842919:android:fd5b9b59e85501729c9c82",
+        "android_client_info": {
+          "package_name": "ani.notificationsend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303100842919-85hjcuas94h327dm2b7i6pkq8o2p1gfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt95XgZ19x1KKKvTYmRrV3Ugeg0C0N5Uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303100842919-85hjcuas94h327dm2b7i6pkq8o2p1gfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
